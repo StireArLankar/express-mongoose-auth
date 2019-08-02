@@ -9,4 +9,7 @@ NODE_ENV=development
 SERVER_PORT=8080
 
 MDB=secretstringtodatabase
+
+# String for token
+TOKEN_SECRET=helloworld
 ```
